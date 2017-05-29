@@ -8,7 +8,8 @@ table {
 	vertical-align: middle;
 	line-height: 2em;
 	text-align: left;
-	/*background-color: #FCFCFC;*/
+	width: 100%;
+	overflow-y: auto;
 	border-spacing: 0;
 }
 
@@ -27,6 +28,7 @@ td {
 
 .nonactive {
 	color: #8E8E8E;
+	background-color: #FCFCFC;
 }
 
 .switch {
@@ -36,7 +38,9 @@ td {
   height: 24px;
 }
 
-.switch input {display:none;}
+.switch input {
+	display:none;
+}
 
 .slider {
   position: absolute;
