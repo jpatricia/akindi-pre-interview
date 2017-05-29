@@ -5,9 +5,9 @@ body {
 table {
 	border: 1px solid #A5A5A5;
 	border-radius: 5px;
-	text-align: center;
 	vertical-align: middle;
 	line-height: 2em;
+	text-align: left;
 	/*background-color: #FCFCFC;*/
 	border-spacing: 0;
 }
@@ -15,8 +15,8 @@ table {
 th {
 	padding: 12px;
 	font-size: 18px;
-	/*background-color: #6B93CE;*/
-	color: #6B93CE;
+	background-color: #6B93CE;
+	color: white;
 	cursor: default;
 }
 
