@@ -1,0 +1,53 @@
+{
+	"tableData": [
+		{
+			"name": "Jane Doe",
+			"email": "janedoe@gmail.com",
+			"sheets": "37",
+			"lastSeen": "Fri Mar 24 2017 00:33:04 GMT-0400 (Eastern Daylight Time)",
+			"activeStatus": true
+		},
+		{
+			"name": "Cheng Wong",
+			"email": "cheng.wong@example.com",
+			"sheets": "10",
+			"lastSeen": "Sat Apr 01 2017 02:35:57 GMT-0400 (Eastern Daylight Time)",
+			"activeStatus": true
+		},
+		{
+			"name": "Alex Doe",
+			"email": "alex.doe@gmail.com",
+			"sheets": "20",
+			"lastSeen": "Mon Mar 06 2017 07:56:54 GMT-0500 (Eastern Standard Time)",
+			"activeStatus": true
+		},
+		{
+			"name": "Jose Lopez",
+			"email": "jose.lopez@gmail.com",
+			"sheets": "10",
+			"lastSeen": "Tue Apr 25 2017 02:48:54 GMT-0400 (Eastern Daylight Time)",
+			"activeStatus": true
+		},
+		{
+			"name": "Brittany Xu",
+			"email": "brit.xue@gmail.com",
+			"sheets": "6",
+			"lastSeen": "Thu May 25 2017 14:23:15 GMT-0400 (Eastern Daylight Time)",
+			"activeStatus": true
+		},
+		{
+			"name": "Jane Wong",
+			"email": "jane.wong@gmail.com",
+			"sheets": "0",
+			"lastSeen": "Sat May 13 2017 08:53:30 GMT-0400 (Eastern Daylight Time)",
+			"activeStatus": false
+		},
+		{
+			"name": "Jane Doe",
+			"email": "janedoe@gmail.com",
+			"sheets": "1",
+			"lastSeen": "Thu May 25 2017 14:23:15 GMT-0400 (Eastern Daylight Time)",
+			"activeStatus": true
+		}
+	]
+}
