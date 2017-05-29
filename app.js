@@ -13,7 +13,7 @@ app
 		});
 
 		$scope.changeActiveStatus = function(row) {
-			var cloneData = _.cloneDeep($scope.data);
+			var cloneData = _.cloneDeep(row);
 			cloneData.activeStatus = !cloneData.activeStatus;
 			cloneData.status = cloneData.activeStatus ? 'Active' : 'Inactive';
 		};
